@@ -4,8 +4,6 @@
 </br>  
 <h2>🧐 Features</h2>
 
-* FEATURES
-
 * Convert Windows format directory to Linux format
 * Can send you to the directory automaticaly
 
