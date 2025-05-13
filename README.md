@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Directory Converter</h1>  
   
-<p id="description">This is a Shell script (`.sh`) that converts a directory path from Windows format to Linux format. Additionally, the script offers extra functionality: if the second argument is `cd`, it will print the path in Linux format and automatically execute the `cd` command in your terminal, if the script is executed with `source` or `.` in the terminal.</p>  
+This is a Shell script (`.sh`) that converts a directory path from Windows format to Linux format. Additionally, the script offers extra functionality: if the second argument is `cd`, it will print the path in Linux format and automatically execute the `cd` command in your terminal, if the script is executed with `source` or `.` in the terminal.
 </br>  
 <h2>🧐 Features</h2>
 
@@ -39,5 +39,5 @@ $ cd Directory-Converter/
 # If you want only to convert
 ./convert.sh 'D:/this/is/a/example'
 # If you also want to go to the directory
-. convert.sh 'D:/this/is/a/example' cd
+./convert.sh 'D:/this/is/a/example' cd
 ```  
